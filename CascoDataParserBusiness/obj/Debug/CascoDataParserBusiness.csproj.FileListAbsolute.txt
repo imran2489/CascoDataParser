@@ -1,0 +1,28 @@
+c:\users\hi\documents\visual studio 2013\Projects\CascoDataParser\CascoDataParserBusiness\bin\Debug\CascoDataParserBusiness.dll
+c:\users\hi\documents\visual studio 2013\Projects\CascoDataParser\CascoDataParserBusiness\bin\Debug\CascoDataParserBusiness.pdb
+c:\users\hi\documents\visual studio 2013\Projects\CascoDataParser\CascoDataParserBusiness\obj\Debug\CascoDataParserBusiness.csprojResolveAssemblyReference.cache
+c:\users\hi\documents\visual studio 2013\Projects\CascoDataParser\CascoDataParserBusiness\obj\Debug\CascoDataParserBusiness.dll
+c:\users\hi\documents\visual studio 2013\Projects\CascoDataParser\CascoDataParserBusiness\obj\Debug\CascoDataParserBusiness.pdb
+C:\Users\HI\documents\visual studio 2013\Projects\CascoDataParser\CascoDataParserBusiness\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HI\documents\visual studio 2013\Projects\CascoDataParser\CascoDataParserBusiness\bin\Debug\Newtonsoft.Json.xml
+D:\Casco\Project\CascoDataParser\CascoDataParserBusiness\bin\Debug\CascoDataParserBusiness.dll
+D:\Casco\Project\CascoDataParser\CascoDataParserBusiness\bin\Debug\CascoDataParserBusiness.pdb
+D:\Casco\Project\CascoDataParser\CascoDataParserBusiness\bin\Debug\Newtonsoft.Json.dll
+D:\Casco\Project\CascoDataParser\CascoDataParserBusiness\bin\Debug\Newtonsoft.Json.xml
+D:\Casco\Project\CascoDataParser\CascoDataParserBusiness\obj\Debug\CascoDataParserBusiness.csprojResolveAssemblyReference.cache
+D:\Casco\Project\CascoDataParser\CascoDataParserBusiness\obj\Debug\CascoDataParserBusiness.dll
+D:\Casco\Project\CascoDataParser\CascoDataParserBusiness\obj\Debug\CascoDataParserBusiness.pdb
+C:\Users\HI\Desktop\Casco\Project\CascoDataParser\CascoDataParserBusiness\bin\Debug\CascoDataParserBusiness.dll
+C:\Users\HI\Desktop\Casco\Project\CascoDataParser\CascoDataParserBusiness\bin\Debug\CascoDataParserBusiness.pdb
+C:\Users\HI\Desktop\Casco\Project\CascoDataParser\CascoDataParserBusiness\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HI\Desktop\Casco\Project\CascoDataParser\CascoDataParserBusiness\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HI\Desktop\Casco\Project\CascoDataParser\CascoDataParserBusiness\obj\Debug\CascoDataParserBusiness.csprojResolveAssemblyReference.cache
+C:\Users\HI\Desktop\Casco\Project\CascoDataParser\CascoDataParserBusiness\obj\Debug\CascoDataParserBusiness.dll
+C:\Users\HI\Desktop\Casco\Project\CascoDataParser\CascoDataParserBusiness\obj\Debug\CascoDataParserBusiness.pdb
+C:\Users\imran.hanif\Desktop\Casco\Casco\Project\CascoDataParser\CascoDataParserBusiness\bin\Debug\CascoDataParserBusiness.dll
+C:\Users\imran.hanif\Desktop\Casco\Casco\Project\CascoDataParser\CascoDataParserBusiness\bin\Debug\CascoDataParserBusiness.pdb
+C:\Users\imran.hanif\Desktop\Casco\Casco\Project\CascoDataParser\CascoDataParserBusiness\bin\Debug\Newtonsoft.Json.dll
+C:\Users\imran.hanif\Desktop\Casco\Casco\Project\CascoDataParser\CascoDataParserBusiness\bin\Debug\Newtonsoft.Json.xml
+C:\Users\imran.hanif\Desktop\Casco\Casco\Project\CascoDataParser\CascoDataParserBusiness\obj\Debug\CascoDataParserBusiness.csprojResolveAssemblyReference.cache
+C:\Users\imran.hanif\Desktop\Casco\Casco\Project\CascoDataParser\CascoDataParserBusiness\obj\Debug\CascoDataParserBusiness.dll
+C:\Users\imran.hanif\Desktop\Casco\Casco\Project\CascoDataParser\CascoDataParserBusiness\obj\Debug\CascoDataParserBusiness.pdb

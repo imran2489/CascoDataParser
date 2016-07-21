@@ -1,0 +1,5 @@
+c:\users\hi\documents\visual studio 2013\Projects\CascoDataParser\CascoDataParserUnitTests\bin\Debug\CascoDataParserUnitTests.dll
+c:\users\hi\documents\visual studio 2013\Projects\CascoDataParser\CascoDataParserUnitTests\bin\Debug\CascoDataParserUnitTests.pdb
+c:\users\hi\documents\visual studio 2013\Projects\CascoDataParser\CascoDataParserUnitTests\obj\Debug\CascoDataParserUnitTests.csprojResolveAssemblyReference.cache
+c:\users\hi\documents\visual studio 2013\Projects\CascoDataParser\CascoDataParserUnitTests\obj\Debug\CascoDataParserUnitTests.dll
+c:\users\hi\documents\visual studio 2013\Projects\CascoDataParser\CascoDataParserUnitTests\obj\Debug\CascoDataParserUnitTests.pdb
